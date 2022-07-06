@@ -16,3 +16,4 @@ The data was sourced from this [website](https://8weeksqlchallenge.com/case-stud
 
 ## Analysis
 ## Results
+[Here] (https://github.com/OreBank/8-Weeks-SQL-Challenge/blob/main/WEEK%201/FILTERING%20GROUPED%20RECORDS.sql) is the results of my findings 
